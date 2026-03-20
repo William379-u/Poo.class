@@ -49,7 +49,7 @@ const inventario: Producto[] = [
     new Electronico("Laptop Gamer para estudios", 1200),
     new Ropa("Chaqueta de Cuero para tirar flow bien facha", 80),
     new Alimento("Canasta Básica para los basicos :V", 45),
-    new Electronico("Un chaifon", 500)
+    new Electronico("Un chaifon 14+", 500)
 ];
 
 console.log("--- Inventario de la Tienda ---");
