@@ -19,4 +19,4 @@ const carrito = new Carro("Mazda");
 carrito.mover();
 const motito = new Moto("Yamaha");
 motito.mover();
-//# sourceMappingURL=index.js.map
+//# sourceMappingURL=Vehiculo.js.map
